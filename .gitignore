@@ -11,3 +11,5 @@ functions/__pycache__/
 # headlessly (Rscript, source() from a terminal). It is a build artifact of
 # running the course code, not course content.
 Rplots.pdf
+
+.DS_Store
